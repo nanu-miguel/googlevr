@@ -6,7 +6,9 @@ Please read the documentation available at
 
 <br>
 <br>
-[Example](https://codetricity.github.io/googlevr/googlevr.html)
+
+* [Image Example](https://codetricity.github.io/googlevr/googlevr.html)
+* [Video Example]
 
 <br>
 ![](img/screenshot.png)
