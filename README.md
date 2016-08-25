@@ -7,8 +7,8 @@ Please read the documentation available at
 <br>
 <br>
 
-* [Image Example](https://codetricity.github.io/googlevr/googlevr.html)
-* [Video Example]
+* [Image Example](http://theta360.guide/googlevr/googlevr.html)
+* [Video Example](http://theta360.guide/googlevr/video-sample.html)
 
 <br>
 ![](img/screenshot.png)
